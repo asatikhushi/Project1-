@@ -4,6 +4,7 @@ import java.util.Scanner;
 
 public class Array {
     public static void main(String[] args) {
+    	System.out.println("Array code");
        Scanner sc=new Scanner(System.in);
      int num1[]  =new int[4] ; 
      int result[]  =new int[4] ;
